@@ -20,6 +20,7 @@
 - 👯 I’m looking to collaborate with Cryptographers and LLVM-Developers.
 - 🤔 I’m looking for help with Open source Contribution.
 - 💬 Ping me about **LLVM**, **Compiler Design**, **Cryptography**, **Blockchain**
+- 👨‍💻 I love doing **Web-Development** as a hobby.
 
 </td>
 <td width="50%" align="center">
