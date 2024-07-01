@@ -190,7 +190,7 @@
   
 <p>
 <div align="center">
-  :heart_eyes: Thanks for visiting my profile! Have a nice day! :wink: <br/>
+  Thanks for visiting my profile! Have a nice day! :wink: <br/>
   &copy; 2024 Harshil Kaneria
 </div>
 
