@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bona+Nova+SC&size=40&duration=3000&pause=500&color=FFF17F&center=true&vCenter=true&random=false&width=700&height=60&lines=Heyy!+I+am+Harshil+Kaneria.;Welcome+to+my+Github+Profile!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bona+Nova+SC&size=40&duration=3000&pause=500&color=000000&center=true&vCenter=true&random=false&width=700&height=60&lines=Heyy!+I+am+Harshil+Kaneria.;Welcome+to+my+Github+Profile!" alt="Title"></img>
 </div>
 
 <br>
@@ -15,12 +15,11 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🔭 I’m currently working on `LLVM` Development and `Signal Protocol` Implementation.
-- 🌱 I’m currently learning `Compiler Design`, `Signal Protocol` and `Blockchain`.
-- 👯 I’m looking to collaborate with Cryptographers and LLVM-Developers.
-- 🤔 I’m looking for help with Open source Contribution.
-- 💬 Ping me about **LLVM**, **Compiler Design**, **Cryptography**, **Blockchain**
-- 👨‍💻 I love doing **Web-Development** as a hobby.
+- 🔭 I’m currently working as a Software Engineer at Flipkart.
+- 🌱 I’m ingulged in supply chain and fulfilment related optimisation for E-commerce platform.
+- 👯 I’m looking to collaborate and contribute on open-source projects.
+- 💬 Ping me about **Gen-AI**, **Designing Scale Systems**, and **anything technical**.
+- 👨‍💻 I love playing **Mafia** as a hobby.
 - 🌌 Interstellar is my all time favourite movie, you'll find the **Gargantua** - Blackhole pic on all my profiles.
 
 </td>
@@ -33,22 +32,6 @@
 ## <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50px" height="50px"></img> Languages and Tools
 
 <p align="left">
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-          alt="css3"
-          width="40"
-          height="40"
-      />
-    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -56,14 +39,6 @@
           width="40"
           height="40"
       />
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-                alt="nodejs"
-                width="40"
-                height="40"
-        />
     </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img
@@ -108,36 +83,12 @@
                 height="40"
         />
     </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-                alt="mongodb"
-                width="40"
-                height="40"
-        />
-    </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
                 alt="mysql"
                 width="40"
                 height="40"
-        />
-    </a>
-    <a href="https://llvm.org/" target="_blank" rel="noreferrer">
-      <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/llvm/llvm-original.svg"
-          alt="llvm"
-          width="40"
-          height="40"
-      />
-    </a>
-    <a href="https://signal.org/docs/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/signal.svg"
-            alt="signal protocol"
-            width="40"
-            height="40"
         />
     </a>
 </p>
@@ -193,7 +144,7 @@
 <p>
 <div align="center">
   Thanks for visiting my profile! Have a nice day! :wink: <br/>
-  &copy; 2024 Harshil Kaneria
+  &copy; 2026 Harshil Kaneria
 </div>
 
 ---
