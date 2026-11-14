@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bona+Nova+SC&size=40&duration=3000&pause=500&color=ffffff&center=true&vCenter=true&random=false&width=700&height=60&lines=Heyy!+I+am+Harshil+Kaneria.;Welcome+to+my+Github+Profile!" alt="Title"></img>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Bona+Nova+SC&size=40&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&random=false&width=700&height=60&lines=Heyy!+I+am+Harshil+Kaneria.;Welcome+to+my+Github+Profile!">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Bona+Nova+SC&size=40&duration=3000&pause=500&color=1F2328&center=true&vCenter=true&random=false&width=700&height=60&lines=Heyy!+I+am+Harshil+Kaneria.;Welcome+to+my+Github+Profile!">
+    <img alt="Title" src="https://readme-typing-svg.herokuapp.com?font=Bona+Nova+SC&size=40&duration=3000&pause=500&color=1F2328&center=true&vCenter=true&random=false&width=700&height=60&lines=Heyy!+I+am+Harshil+Kaneria.;Welcome+to+my+Github+Profile!">
+  </picture>
 </div>
 
 <br>
